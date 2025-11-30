@@ -1,3 +1,3 @@
 # Secure FOSS
 
-Secure FOSS is my attempt to keep track of the open-source tools I use and make them a bit safer. I explore ways to improve security, reduce supply-chain risks, and test updates as I go. It’s a personal space for learning, experimenting, and refining my own workflows.
+This organisation is my attempt to organise and keep track of the open-source tools I use. The goal is to explore ways to improve security, reduce supply-chain risks, and better understand how these tools work. Nothing here is official or guaranteed — it's mainly a personal learning and experimentation space.
